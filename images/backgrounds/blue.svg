@@ -6,9 +6,9 @@
 </path><path d="M1440 560L831.46 560L1440 477.5z" fill="rgba(0, 0, 0, .1)">
 </path><path d="M1440 477.5L831.46 560L701.87 560L1440 317.15999999999997z" fill="rgba(0, 0, 0, .075)"></path>
 <path d="M1440 317.15999999999997L701.87 560L319.86 560L1440 234.53999999999996z" fill="rgba(0, 0, 0, .05)"></path>
-<path d="M1440 234.53999999999996L319.8600000000001 560L154.48000000000013 560L1440 210.14999999999998z" fill="rgba(0, 0, 0, .025)"></path></g>
+<path d="M1440 234.53999999999996L319.8600000000001 560L154.48000000000013 560L1440 210.14999999999998z" fill="rgba(146, 72, 219, 0.03)"></path></g>
 <defs><mask id="SvgjsMask1174"><rect width="1440" height="560" fill="rgb(142,167,227)"></rect></mask>
 <linearGradient x1="15.28%" y1="-39.29%" x2="84.72%" y2="139.29%" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1175">
-<stop stop-color="rgb(84, 117, 196)" offset="0"></stop><stop stop-color="rgb(0, 0, 0)" offset="1"></stop>
-<stop stop-color="rgb(12, 20, 38)" offset="1"></stop></linearGradient></defs></svg>
+<stop stop-color="rgb(24, 59, 141)" offset="0"></stop><stop stop-color="rgb(16, 4, 84)" offset="1"></stop>
+<stop stop-color="rgb(10, 27, 65)" offset="1"></stop></linearGradient></defs></svg>
 <!-- #341510 -->
